@@ -14,6 +14,7 @@ const TrendingScreen: FC = () => {
     <View style={styles.container}>
       <Header title="Trending" />
       <Trending onScreen={true} />
+      {/* <Trending onScreen={true} /> */}
     </View>
   );
 };
