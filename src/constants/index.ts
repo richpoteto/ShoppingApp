@@ -84,4 +84,8 @@ export const categories = [
     src: require('../assets/dresses.png'),
     label: 'Dresses',
   },
+    {
+    src: require('../assets/dresses.png'),
+    label: 'Dresses',
+  },
 ];
